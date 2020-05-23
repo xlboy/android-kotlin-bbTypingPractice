@@ -1,4 +1,4 @@
-# android-bbTypingPractice
+# android-kotlin-bbTypingPractice
 一款为五笔、音形用户而生的打字机(手机打字练习项目),需搭配Web项目使用(隔壁库android-vue-bbTypingPractice)
 
 [点击BB机安卓版](http://xlboy.cn/article/5e7865d7d453277ee93134a0)
